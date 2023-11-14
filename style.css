@@ -1,0 +1,18 @@
+.navbar-logo{
+    width: 40px;
+    border-radius: 20px;
+    margin:0;
+    padding: 0;
+
+}
+body{
+    background-image: url("https://images.pexels.com/photos/19115988/pexels-photo-19115988/free-photo-of-god-s-own-country-nilambur-kerala-india.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
+    background-size: auto;
+    /* background-repeat: no-repeat; */
+}
+.sign{
+    margin: right;
+}
+.navbar-collapse.collapse.w-100.order-3.dual-collapse2 ul.navbar-nav.ml-auto {
+    justify-content: flex-end;
+   }
