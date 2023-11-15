@@ -10,9 +10,8 @@ body{
     background-size: auto;
     /* background-repeat: no-repeat; */
 }
-.sign{
-    margin: right;
-}
+
+
 .navbar-collapse.collapse.w-100.order-3.dual-collapse2 ul.navbar-nav.ml-auto {
     justify-content: flex-end;
    }
